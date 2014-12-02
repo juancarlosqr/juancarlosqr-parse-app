@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "_default": {
+            "link": "juancarlosqr"
+        }, 
+        "juancarlosqr": {
+            "applicationId": "ychlkAvKVniJfOTdqjjq1SCNe2hsSdp2VFmVOouE", 
+            "masterKey": "X6eswd3VgHd5yHRapJqEe7FlSxzEN6LHhrUlvBEW"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.2"
+    }
+}
